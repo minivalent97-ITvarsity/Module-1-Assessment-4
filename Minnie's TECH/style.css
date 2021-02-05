@@ -1,0 +1,14 @@
+th{
+    font-weight: 800;
+    background-color: chocolate;
+    color: aliceblue;
+
+
+}
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: double;
+    border-color: chocolate;
+}
